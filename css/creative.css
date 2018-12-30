@@ -318,3 +318,15 @@ header.masthead p {
   -webkit-box-shadow: 0 0 0 0.2rem rgba(102, 153, 255, 0.5) !important;
   box-shadow: 0 0 0 0.2rem rgba(102, 153, 255, 0.5) !important;
 }
+
+
+
+/* My Add */
+td, th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px 20px;
+}
+table {
+    border-collapse: collapse;
+}
